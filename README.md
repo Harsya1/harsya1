@@ -1,4 +1,4 @@
-# Hi there, I'm Dika! 👋 🚀
+# Hi there, I'm Dika! 👋
 
 **T-Shaped Software Engineer | AI & Computer Vision Enthusiast | Mobile Developer**
 
@@ -34,15 +34,15 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=radical&hide_border=true" alt="Dika's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsya1&show_icons=true&theme=radical&hide_border=true" alt="Dika's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsya1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-* 💼 **LinkedIn:** [Link LinkedIn Kamu]
-* ✉️ **Email:** [Email Kamu]
+* 💼 **LinkedIn:** [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BT6QqwYFTL2Z3osBgkiymA%3D%3D]
+* ✉️ **Email:** [dika20949@gmail.com]
 
 *"Continuously learning, optimizing, and building systems that connect the 'brain' of AI with the 'face' of Mobile UI."*
