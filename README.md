@@ -1,6 +1,6 @@
 # Hi there👋, I'm Harsya Mahardika Pratama!
 
-**T-Shaped Software Engineer | AI & Computer Vision Enthusiast | Mobile Developer**
+**T-Shaped Software Engineer | AI & Computer Vision Enthusiast | Mobile Developer | Web Developer**
 
 I am an Informatics Engineering student passionate about bridging the gap between complex Artificial Intelligence models and intuitive Mobile Applications. I enjoy solving real-world mathematical and engineering problems, moving beyond conventional CRUD applications.
 
@@ -70,3 +70,7 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 * **Adaptability:** I am comfortable navigating between Object-Oriented paradigms for mobile UI trees and functional/scripting paradigms for complex array processing in data science.
 * **Continuous Improvement:** My current focus is transitioning my data science "scripts" into fully OOP-based, deployable AI pipelines. I am actively working on improving my dependency management and implementing cleaner architectures (MLOps).
 * **Problem Solving First:** Whether it's processing real-time face detection or managing sensor data logic, I focus on the "why" and "how" the engineering solves the core problem.
+
+---
+
+*"Good software, like wine, takes time."* — Joel Spolsky🍷
