@@ -6,7 +6,7 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://instagram.com/harsya_mp/" target="_blank">
@@ -25,7 +25,7 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 
 ---
 
-# 💻 Languages and Tools
+# Languages and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,14 +35,15 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsya1&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsya1&theme=radical&hide_border=false" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsya1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsya1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 </p>
 
-## 🏆 Trophies & Contributions
+## Trophies & Contributions
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harsya1&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
