@@ -9,10 +9,10 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://instagram.com/instagram_kamu" target="_blank">
+  <a href="https://instagram.com/harsya_mp/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/linkedin_kamu" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2BT6QqwYFTL2Z3osBgkiymA%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Harsya1" target="_blank">
