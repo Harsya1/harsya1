@@ -63,13 +63,13 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 * 🐳 **DevOps & Containerization:** Deepening my knowledge in Docker to containerize applications (such as web systems and APIs) for easier deployment and scalability.
 * 🔗 **AI-to-Mobile Integration:** Bridging my core logic (Python Machine Learning models) with my front-end mobile applications (Kotlin/Flutter) by exploring lightweight backend frameworks like **FastAPI** to build robust REST APIs.
 
----
+<!-- ---
 
 ### 💡 Engineering Philosophy
 
 * **Adaptability:** I am comfortable navigating between Object-Oriented paradigms for mobile UI trees and functional/scripting paradigms for complex array processing in data science.
 * **Continuous Improvement:** My current focus is transitioning my data science "scripts" into fully OOP-based, deployable AI pipelines. I am actively working on improving my dependency management and implementing cleaner architectures (MLOps).
-* **Problem Solving First:** Whether it's processing real-time face detection or managing sensor data logic, I focus on the "why" and "how" the engineering solves the core problem.
+* **Problem Solving First:** Whether it's processing real-time face detection or managing sensor data logic, I focus on the "why" and "how" the engineering solves the core problem. -->
 
 ---
 
