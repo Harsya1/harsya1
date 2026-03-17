@@ -5,13 +5,34 @@
 I am an Informatics Engineering student passionate about bridging the gap between complex Artificial Intelligence models and intuitive Mobile Applications. I enjoy solving real-world mathematical and engineering problems, moving beyond conventional CRUD applications.
 
 ---
+# 💻 Tech Stack & Tools
 
-### 🛠️ Tech Stack & Domains
+**Mobile & Game Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-* **AI, Data & Computer Vision:** Python, Scikit-Learn, MediaPipe, NumPy. *(Focusing on real-time CV, data forecasting, and predictive models).*
-* **Mobile Development:** Flutter (Dart), Android Native (Kotlin).
-* **Web, Backend & DevOps:** Laravel, Docker, HTML.
-* **Game Dev & Others:** C#, Unity.
+**Artificial Intelligence & Data**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Backend, Web & DevOps**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**IoT & Hardware**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhyi7&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhyi7&theme=radical&hide_border=false" width="48%">
+</p>
+
+## 🏆 Trophies & Contributions
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhyi7&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
+
 
 ---
 
