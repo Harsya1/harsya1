@@ -73,4 +73,6 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 
 ---
 
-*"Good software, like wine, takes time."* — Joel Spolsky🍷
+<p align="center">
+  <img src="image/quote.jpg" alt="Quote">
+</p>
