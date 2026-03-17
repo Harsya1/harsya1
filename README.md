@@ -24,13 +24,13 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhyi7&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhyi7&theme=radical&hide_border=false" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsya1&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsya1&theme=radical&hide_border=false" width="48%">
 </p>
 
 ## 🏆 Trophies & Contributions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhyi7&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsya1&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
 
