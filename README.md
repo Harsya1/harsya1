@@ -29,7 +29,7 @@ I am an Informatics Engineering student passionate about bridging the gap betwee
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,cs,unity,html,css,js,php,laravel,mysql,docker,arduino,cpp,github&perline=8" alt="Dika's Skills" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,cs,unity,html,css,js,php,laravel,mysql,docker,arduino,cpp,github,androidstudio,laragon&perline=9" alt="Dika's Skills" />
   </a>
 </p>
 
